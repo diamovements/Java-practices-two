@@ -1,4 +1,4 @@
-package org.example.Pr16.models;
+package org.example.Pr22.models;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;

@@ -1,4 +1,4 @@
-package org.example.Pr16.models;
+package org.example.Pr18.models;
 
 import jakarta.persistence.*;
 import lombok.Getter;

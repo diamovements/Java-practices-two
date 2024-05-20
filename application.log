@@ -1,0 +1,583 @@
+1485 [restartedMain] INFO  org.example.Pr13.App
+                – Starting App using Java 19.0.1 with PID 20664 (C:\Users\karin\IdeaProjects\PracticesPartTwo\target\classes started by cyberbabe in C:\Users\karin\IdeaProjects\PracticesPartTwo)
+1495 [restartedMain] INFO  org.example.Pr13.App
+                – No active profile set, falling back to 1 default profile: "default"
+1599 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1599 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+3634 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+3652 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+3652 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+3652 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.5]
+3752 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+3752 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 2152 ms
+4184 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping
+                – Adding welcome page template: index
+4495 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration
+                – 
+
+Using generated security password: 836bd1a7-2bcc-4a19-8de3-0a678bfa7924
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+4670 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@637c8e89, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@13845055, org.springframework.security.web.context.SecurityContextHolderFilter@1f5ca93d, org.springframework.security.web.header.HeaderWriterFilter@5025934b, org.springframework.security.web.csrf.CsrfFilter@5064174e, org.springframework.security.web.authentication.logout.LogoutFilter@4070de03, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@53db034a, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2e9ca912, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@50cc678d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@c9f82f9, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@360b9a75, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@86101f9, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@55679a17, org.springframework.security.web.access.ExceptionTranslationFilter@647321a7, org.springframework.security.web.access.intercept.AuthorizationFilter@4af178bf]
+4787 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+4810 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+4840 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+4857 [restartedMain] INFO  org.example.Pr13.App
+                – Started App in 4.087 seconds (process running for 5.927)
+36328 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring DispatcherServlet 'dispatcherServlet'
+36328 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Initializing Servlet 'dispatcherServlet'
+36330 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Completed initialization in 1 ms
+1299 [restartedMain] INFO  org.example.Pr13.App
+                – Starting App using Java 19.0.1 with PID 29360 (C:\Users\karin\IdeaProjects\PracticesPartTwo\target\classes started by cyberbabe in C:\Users\karin\IdeaProjects\PracticesPartTwo)
+1303 [restartedMain] INFO  org.example.Pr13.App
+                – No active profile set, falling back to 1 default profile: "default"
+1388 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1389 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+3121 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+3136 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+3137 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+3137 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.5]
+3231 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+3232 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 1841 ms
+3748 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping
+                – Adding welcome page template: index
+4036 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration
+                – 
+
+Using generated security password: d56f42df-ad73-45fd-98f7-036e3cf17131
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+4209 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@1985b184, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@67e18ed0, org.springframework.security.web.context.SecurityContextHolderFilter@538583c5, org.springframework.security.web.header.HeaderWriterFilter@67e61e6e, org.springframework.security.web.csrf.CsrfFilter@56712332, org.springframework.security.web.authentication.logout.LogoutFilter@9ee9633, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@8f70e3e, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@4f405f6d, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@bedb6aa, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3b28a652, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@483c1451, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@668b92f3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@57c34af0, org.springframework.security.web.access.ExceptionTranslationFilter@6e71b1fc, org.springframework.security.web.access.intercept.AuthorizationFilter@4ac0a1e4]
+4331 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+4358 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+4387 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+4404 [restartedMain] INFO  org.example.Pr13.App
+                – Started App in 3.742 seconds (process running for 5.273)
+14308 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring DispatcherServlet 'dispatcherServlet'
+14309 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Initializing Servlet 'dispatcherServlet'
+14311 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Completed initialization in 2 ms
+2279 [restartedMain] INFO  org.example.Pr13.App
+                – Starting App using Java 19.0.1 with PID 31036 (C:\Users\karin\IdeaProjects\PracticesPartTwo\target\classes started by cyberbabe in C:\Users\karin\IdeaProjects\PracticesPartTwo)
+2302 [restartedMain] INFO  org.example.Pr13.App
+                – No active profile set, falling back to 1 default profile: "default"
+2482 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2482 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+5385 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+5418 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+5420 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+5421 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.5]
+5569 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+5569 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 3087 ms
+6130 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping
+                – Adding welcome page template: index
+6423 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration
+                – 
+
+Using generated security password: 814cecfe-5c25-4bab-af35-e91fb0abb819
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+6577 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@1f20e477, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4c45dcef, org.springframework.security.web.context.SecurityContextHolderFilter@386c3700, org.springframework.security.web.header.HeaderWriterFilter@2f789f7f, org.springframework.security.web.csrf.CsrfFilter@1511f1c6, org.springframework.security.web.authentication.logout.LogoutFilter@7547315, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@74389833, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@184bd9e9, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@6d5b4d54, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3f1d8571, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@66f8ad15, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@186802dd, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@b4d7696, org.springframework.security.web.access.ExceptionTranslationFilter@50af1d58, org.springframework.security.web.access.intercept.AuthorizationFilter@3d33af03]
+6718 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+6749 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+6781 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+6798 [restartedMain] INFO  org.example.Pr13.App
+                – Started App in 5.768 seconds (process running for 8.413)
+21029 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring DispatcherServlet 'dispatcherServlet'
+21029 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Initializing Servlet 'dispatcherServlet'
+21032 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Completed initialization in 2 ms
+1309 [restartedMain] INFO  org.example.Pr13.App
+                – Starting App using Java 19.0.1 with PID 16436 (C:\Users\karin\IdeaProjects\PracticesPartTwo\target\classes started by cyberbabe in C:\Users\karin\IdeaProjects\PracticesPartTwo)
+1314 [restartedMain] INFO  org.example.Pr13.App
+                – No active profile set, falling back to 1 default profile: "default"
+1404 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1404 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+3132 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+3151 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+3153 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+3153 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.5]
+3261 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+3263 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 1856 ms
+3826 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping
+                – Adding welcome page template: index
+4121 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration
+                – 
+
+Using generated security password: 1ec33b8f-186f-4c03-a6f9-48be597128b2
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+4294 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@f0f8c95, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@567193ff, org.springframework.security.web.context.SecurityContextHolderFilter@805b8ac, org.springframework.security.web.header.HeaderWriterFilter@70093948, org.springframework.security.web.csrf.CsrfFilter@4adc62e4, org.springframework.security.web.authentication.logout.LogoutFilter@3b28a652, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@23e5b11d, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@9ee9633, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@373d1489, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@8ea39a2, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@51519b75, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@54dcfd29, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@53ec7d61, org.springframework.security.web.access.ExceptionTranslationFilter@68126999, org.springframework.security.web.access.intercept.AuthorizationFilter@6e3ce2e0]
+4427 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+4460 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+4497 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+4514 [restartedMain] INFO  org.example.Pr13.App
+                – Started App in 3.864 seconds (process running for 5.384)
+11198 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring DispatcherServlet 'dispatcherServlet'
+11198 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Initializing Servlet 'dispatcherServlet'
+11199 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Completed initialization in 1 ms
+1408 [restartedMain] INFO  org.example.Pr13.App
+                – Starting App using Java 19.0.1 with PID 3236 (C:\Users\karin\IdeaProjects\PracticesPartTwo\target\classes started by cyberbabe in C:\Users\karin\IdeaProjects\PracticesPartTwo)
+1415 [restartedMain] INFO  org.example.Pr13.App
+                – No active profile set, falling back to 1 default profile: "default"
+1518 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1519 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+3476 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+3498 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+3499 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+3500 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.5]
+3632 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+3633 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 2114 ms
+4179 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping
+                – Adding welcome page template: index
+4543 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration
+                – 
+
+Using generated security password: 33e2ba30-572a-4e36-9aa5-d3d7cab8b8eb
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+4764 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@2a297088, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7f2372d5, org.springframework.security.web.context.SecurityContextHolderFilter@330a7887, org.springframework.security.web.header.HeaderWriterFilter@68126999, org.springframework.security.web.csrf.CsrfFilter@15ad79f6, org.springframework.security.web.authentication.logout.LogoutFilter@38dc0933, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@8025dac, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@a604da9, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@f0f8c95, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1f9948d0, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@805b8ac, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@40a1c53c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@567193ff, org.springframework.security.web.access.ExceptionTranslationFilter@4f405f6d, org.springframework.security.web.access.intercept.AuthorizationFilter@637ed81d]
+4908 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+4942 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+4982 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+5001 [restartedMain] INFO  org.example.Pr13.App
+                – Started App in 4.317 seconds (process running for 5.877)
+17602 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring DispatcherServlet 'dispatcherServlet'
+17602 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Initializing Servlet 'dispatcherServlet'
+17604 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Completed initialization in 1 ms
+1292 [restartedMain] INFO  org.example.Pr23.AppRunner
+                – Starting AppRunner using Java 19.0.1 with PID 18588 (C:\Users\karin\IdeaProjects\PracticesPartTwo\target\classes started by cyberbabe in C:\Users\karin\IdeaProjects\PracticesPartTwo)
+1297 [restartedMain] INFO  org.example.Pr23.AppRunner
+                – No active profile set, falling back to 1 default profile: "default"
+1453 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1454 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2658 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2774 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                – Finished Spring Data repository scanning in 102 ms. Found 4 JPA repository interfaces.
+4134 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+4148 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+4149 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+4150 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.5]
+4230 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+4230 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 2775 ms
+4555 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper
+                – HHH000204: Processing PersistenceUnitInfo [name: default]
+4664 [restartedMain] INFO  org.hibernate.Version
+                – HHH000412: Hibernate ORM core version 6.1.6.Final
+5039 [restartedMain] WARN  org.hibernate.orm.deprecation
+                – HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+5268 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource
+                – HikariPool-1 - Starting...
+5736 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool
+                – HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1ed96031
+5738 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource
+                – HikariPool-1 - Start completed.
+5827 [restartedMain] INFO  SQL dialect
+                – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+6328 [restartedMain] INFO  o.h.c.b.TypeSafeActivator
+                – Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291)
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103)
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479)
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.example.Pr23.AppRunner.main(AppRunner.java:21)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+7606 [restartedMain] WARN  o.h.e.jdbc.spi.SqlExceptionHelper
+                – SQL Warning Code: 0, SQLState: 00000
+7607 [restartedMain] WARN  o.h.e.jdbc.spi.SqlExceptionHelper
+                – отношение "students" не существует, пропускается
+7635 [restartedMain] WARN  o.h.e.jdbc.spi.SqlExceptionHelper
+                – SQL Warning Code: 0, SQLState: 00000
+7635 [restartedMain] WARN  o.h.e.jdbc.spi.SqlExceptionHelper
+                – таблица "groups" не существует, пропускается
+7659 [restartedMain] WARN  o.h.e.jdbc.spi.SqlExceptionHelper
+                – SQL Warning Code: 0, SQLState: 00000
+7660 [restartedMain] WARN  o.h.e.jdbc.spi.SqlExceptionHelper
+                – таблица "students" не существует, пропускается
+7818 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+7839 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                – Initialized JPA EntityManagerFactory for persistence unit 'default'
+8953 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+9392 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@73cb649e, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@c4acc2b, org.springframework.security.web.context.SecurityContextHolderFilter@1679512, org.springframework.security.web.header.HeaderWriterFilter@60888908, org.springframework.security.web.authentication.logout.LogoutFilter@32eae72f, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@15460fe3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@538ee240, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6575bde6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2956e356, org.springframework.security.web.access.ExceptionTranslationFilter@3ec56fcd, org.springframework.security.web.access.intercept.AuthorizationFilter@283af894]
+10028 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+10131 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+10160 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+10175 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – cleaning and backup db started
+10178 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – backup student has started
+10179 [restartedMain] INFO  org.example.Pr23.AppRunner
+                – Started AppRunner in 9.53 seconds (process running for 11.025)
+10357 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – backup student is over
+10357 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – backup group has started
+10366 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – backup group is over
+10366 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – cleaning and back up db is over
+26733 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring DispatcherServlet 'dispatcherServlet'
+26733 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Initializing Servlet 'dispatcherServlet'
+26739 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Completed initialization in 5 ms
+56473 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                – Closing JPA EntityManagerFactory for persistence unit 'default'
+56482 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                – HikariPool-1 - Shutdown initiated...
+56496 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                – HikariPool-1 - Shutdown completed.
+1268 [restartedMain] INFO  org.example.Pr23.AppRunner
+                – Starting AppRunner using Java 19.0.1 with PID 26100 (C:\Users\karin\IdeaProjects\PracticesPartTwo\target\classes started by cyberbabe in C:\Users\karin\IdeaProjects\PracticesPartTwo)
+1271 [restartedMain] INFO  org.example.Pr23.AppRunner
+                – No active profile set, falling back to 1 default profile: "default"
+1379 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1380 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2442 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                – Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2549 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate
+                – Finished Spring Data repository scanning in 95 ms. Found 4 JPA repository interfaces.
+3647 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+3660 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+3661 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+3661 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.5]
+3741 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+3741 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 2360 ms
+4067 [restartedMain] INFO  o.h.jpa.internal.util.LogHelper
+                – HHH000204: Processing PersistenceUnitInfo [name: default]
+4137 [restartedMain] INFO  org.hibernate.Version
+                – HHH000412: Hibernate ORM core version 6.1.6.Final
+4406 [restartedMain] WARN  org.hibernate.orm.deprecation
+                – HHH90000021: Encountered deprecated setting [javax.persistence.sharedCache.mode], use [jakarta.persistence.sharedCache.mode] instead
+4584 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource
+                – HikariPool-1 - Starting...
+4854 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool
+                – HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@3f851fab
+4856 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource
+                – HikariPool-1 - Start completed.
+4930 [restartedMain] INFO  SQL dialect
+                – HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+5389 [restartedMain] INFO  o.h.c.b.TypeSafeActivator
+                – Error calling `jakarta.validation.Validation#buildDefaultValidatorFactory`
+jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+	at jakarta.validation.Validation$GenericBootstrapImpl.configure(Validation.java:291)
+	at jakarta.validation.Validation.buildDefaultValidatorFactory(Validation.java:103)
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.getValidatorFactory(TypeSafeActivator.java:479)
+	at org.hibernate.cfg.beanvalidation.TypeSafeActivator.activate(TypeSafeActivator.java:82)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.hibernate.cfg.beanvalidation.BeanValidationIntegrator.integrate(BeanValidationIntegrator.java:137)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:287)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:415)
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1425)
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:66)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:376)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409)
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396)
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1797)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1747)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:599)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1130)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:905)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.example.Pr23.AppRunner.main(AppRunner.java:21)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+6512 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator
+                – HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+6529 [restartedMain] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                – Initialized JPA EntityManagerFactory for persistence unit 'default'
+7301 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration
+                – spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+7644 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@7da8cfe3, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@36e456de, org.springframework.security.web.context.SecurityContextHolderFilter@1103a65f, org.springframework.security.web.header.HeaderWriterFilter@4b4ee71e, org.springframework.security.web.authentication.logout.LogoutFilter@1bf4f6b4, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@4b6a3861, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4864e554, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@515cdb76, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2c57c953, org.springframework.security.web.access.ExceptionTranslationFilter@512a40d1, org.springframework.security.web.access.intercept.AuthorizationFilter@11cb4989]
+8223 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+8276 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+8352 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+8370 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – cleaning and backup db started
+8372 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – backup student has started
+8372 [restartedMain] INFO  org.example.Pr23.AppRunner
+                – Started AppRunner in 7.722 seconds (process running for 9.24)
+8570 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – backup student is over
+8571 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – backup group has started
+8580 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – backup group is over
+8581 [scheduling-1] INFO  o.e.Pr23.services.SchedulerService
+                – cleaning and back up db is over
+14180 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring DispatcherServlet 'dispatcherServlet'
+14181 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Initializing Servlet 'dispatcherServlet'
+14182 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet
+                – Completed initialization in 1 ms
+114227 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean
+                – Closing JPA EntityManagerFactory for persistence unit 'default'
+114234 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                – HikariPool-1 - Shutdown initiated...
+114241 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource
+                – HikariPool-1 - Shutdown completed.
+1319 [restartedMain] INFO  org.example.Pr13.App
+                – Starting App using Java 19.0.1 with PID 24928 (C:\Users\karin\IdeaProjects\PracticesPartTwo\target\classes started by cyberbabe in C:\Users\karin\IdeaProjects\PracticesPartTwo)
+1324 [restartedMain] INFO  org.example.Pr13.App
+                – No active profile set, falling back to 1 default profile: "default"
+1414 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1415 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+3573 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+3595 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+3596 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+3597 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.5]
+3750 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+3750 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 2333 ms
+4184 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping
+                – Adding welcome page template: index
+4523 [restartedMain] WARN  o.s.b.a.s.s.UserDetailsServiceAutoConfiguration
+                – 
+
+Using generated security password: 14ee96cc-63ed-4263-adf8-918d54423b8f
+
+This generated password is for development use only. Your security configuration must be updated before running your application in production.
+
+1403 [restartedMain] INFO  org.example.Pr15.AppRunner
+                – Starting AppRunner using Java 19.0.1 with PID 20048 (C:\Users\karin\IdeaProjects\PracticesPartTwo\target\classes started by cyberbabe in C:\Users\karin\IdeaProjects\PracticesPartTwo)
+1407 [restartedMain] INFO  org.example.Pr15.AppRunner
+                – No active profile set, falling back to 1 default profile: "default"
+4678 [restartedMain] INFO  o.s.s.w.DefaultSecurityFilterChain
+                – Will secure any request with [org.springframework.security.web.session.DisableEncodeUrlFilter@76333165, org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7211517f, org.springframework.security.web.context.SecurityContextHolderFilter@51b6a561, org.springframework.security.web.header.HeaderWriterFilter@548efb38, org.springframework.security.web.csrf.CsrfFilter@60838f44, org.springframework.security.web.authentication.logout.LogoutFilter@d75ea52, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@5dcd3bd2, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@6fc7bef5, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@411831dc, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@1362e894, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4e8baff7, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4136f23f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@72b1e365, org.springframework.security.web.access.ExceptionTranslationFilter@3ad5784b, org.springframework.security.web.access.intercept.AuthorizationFilter@7cc3acf2]
+1503 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+1504 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor
+                – For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+4801 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer
+                – LiveReload server is running on port 35729
+4828 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Starting ProtocolHandler ["http-nio-8080"]
+4856 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat started on port(s): 8080 (http) with context path ''
+4873 [restartedMain] INFO  org.example.Pr13.App
+                – Started App in 4.215 seconds (process running for 5.814)
+3452 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer
+                – Tomcat initialized with port(s): 8080 (http)
+3469 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol
+                – Initializing ProtocolHandler ["http-nio-8080"]
+3470 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Starting service [Tomcat]
+3470 [restartedMain] INFO  o.a.catalina.core.StandardEngine
+                – Starting Servlet engine: [Apache Tomcat/10.1.5]
+3607 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/]
+                – Initializing Spring embedded WebApplicationContext
+3608 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext
+                – Root WebApplicationContext: initialization completed in 2103 ms
+3717 [restartedMain] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext
+                – Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'groupController': Unsatisfied dependency expressed through field 'groupRepository': No qualifying bean of type 'org.example.Pr15.repositories.GroupRepository' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+3721 [restartedMain] INFO  o.a.catalina.core.StandardService
+                – Stopping service [Tomcat]
+3757 [restartedMain] INFO  o.s.b.a.l.ConditionEvaluationReportLogger
+                – 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+3850 [restartedMain] ERROR o.s.b.d.LoggingFailureAnalysisReporter
+                – 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field groupRepository in org.example.Pr15.controllers.GroupController required a bean of type 'org.example.Pr15.repositories.GroupRepository' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.example.Pr15.repositories.GroupRepository' in your configuration.
+
+550  [main] INFO  o.e.Pr22.services.StudentService
+                – Getting all students
+514  [main] INFO  o.e.Pr22.services.StudentService
+                – Getting all students
+486  [main] INFO  o.e.Pr22.services.StudentService
+                – Getting all students
+546  [main] INFO  o.e.Pr22.services.StudentService
+                – Creating student with id 1
+543  [main] INFO  o.e.Pr22.services.StudentService
+                – Getting all students
+550  [main] INFO  o.e.Pr22.services.StudentService
+                – Creating student with id 1
+498  [main] INFO  o.e.Pr22.services.StudentService
+                – Creating student with id 1
+489  [main] INFO  o.e.Pr22.services.StudentService
+                – Deleting student with id 1
+544  [main] INFO  o.e.Pr22.services.GroupService
+                – Deleting group with id 1
+570  [main] INFO  o.e.Pr22.services.GroupService
+                – Deleting group with id 1
+567  [main] INFO  o.e.Pr22.services.StudentService
+                – Deleting student with id 1
+581  [main] INFO  o.e.Pr22.services.StudentService
+                – Getting all students
+514  [main] INFO  o.e.Pr22.services.StudentService
+                – Deleting student with id 1
+528  [main] INFO  o.e.Pr22.services.StudentService
+                – Getting all students
+594  [main] INFO  o.e.Pr22.services.GroupService
+                – Deleting group with id 1
